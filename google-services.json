@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "982516767454",
+    "project_id": "bca-shopping-application-5b4af",
+    "storage_bucket": "bca-shopping-application-5b4af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982516767454:android:a91958ea899b2bc8a5004f",
+        "android_client_info": {
+          "package_name": "com.example.bcashoppingapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5HNn5Ubo0Z7ZMduwUs18MD2TYNZt1_YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
